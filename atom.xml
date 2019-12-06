@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmx-star.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-06T05:56:34.341Z</updated>
+    <updated>2019-12-06T05:58:56.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmx-star.github.io"/>
     <link rel="self" href="https://cmx-star.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://cmx-star.github.io/images/avatar.png</logo>
     <icon>https://cmx-star.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[about]]></title>
+        <id>https://cmx-star.github.io/post/about</id>
+        <link href="https://cmx-star.github.io/post/about">
+        </link>
+        <updated>2019-12-06T05:58:11.000Z</updated>
+        <content type="html"><![CDATA[<p>这是我的博客，欢迎来提意见</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://cmx-star.github.io/post/hello-gridea</id>
