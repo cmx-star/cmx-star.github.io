@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cmx-star.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-06T05:58:56.185Z</updated>
+    <updated>2019-12-06T07:15:48.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cmx-star.github.io"/>
     <link rel="self" href="https://cmx-star.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://cmx-star.github.io/images/avatar.png</logo>
     <icon>https://cmx-star.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[我的简历]]></title>
+        <id>https://cmx-star.github.io/post/wo-de-jian-li</id>
+        <link href="https://cmx-star.github.io/post/wo-de-jian-li">
+        </link>
+        <updated>2019-12-06T06:02:45.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li></li>
+</ul>
+<p>姓名：陈茂轩<br>
+电话：13082754889<br>
+邮箱：17865922868@163.com<br>
+*</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[about]]></title>
         <id>https://cmx-star.github.io/post/about</id>
